@@ -1,3 +1,3 @@
 # test
 
-A very simple and ineventful test repository.
+A very simple and uneventful test repository.
